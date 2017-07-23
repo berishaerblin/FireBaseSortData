@@ -1,0 +1,6 @@
+framework module Pods_FireBaseSortData {
+  umbrella header "Pods-FireBaseSortData-umbrella.h"
+
+  export *
+  module * { export * }
+}
